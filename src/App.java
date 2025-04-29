@@ -7,9 +7,8 @@ public class App {
 // git init
 // git branch -M main
 // Creamos el .gitignore
-
-
 // git add .
 // git commit -m "first commit"
-// git remote add origin https://github.com/yourusername/yourproject.git
+// Creamos el repositorio en github.
+// git remote add origin https://github.com/TodoPoderosoCesar/-PROG-UD5-ProyectoGitLocal.git
 // git push -u origin master
