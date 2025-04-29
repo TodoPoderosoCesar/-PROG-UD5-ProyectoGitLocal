@@ -1,6 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, welcome to my program!");
+        System.out.println("Menú:");
+        System.out.println("- Opcion 1 : Añadir persona");
+        System.out.println("- Opcion 2 : Borrar persona");
+        System.out.println("- Opcion 3 : Salir");
     }
 }
 
